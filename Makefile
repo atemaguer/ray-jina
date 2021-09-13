@@ -1,0 +1,4 @@
+test:
+	tox
+
+.PHONY: test
