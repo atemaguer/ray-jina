@@ -136,3 +136,6 @@ shell/jina-wizard.sh
 
 # VSCode
 .vscode
+
+#Assets
+img/
